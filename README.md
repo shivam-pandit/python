@@ -1,2 +1,2 @@
-# python_rms
+# RESTAURANT MANAGEMENT SYSTEM (using python)
 
